@@ -15,5 +15,7 @@ For now, I am just using the CRC32 hash of each game to uniquely identify it. In
 
 # Sources
 
+* [64DD.org](https://64dd.org/)
+* [GameFAQs](https://gamefaqs.gamespot.com/)
 * [MiSTer Addons](https://misteraddons.com/)
 * [Wikipedia](https://en.wikipedia.org/wiki/64DD#Released)
